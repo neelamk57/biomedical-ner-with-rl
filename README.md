@@ -1,1 +1,1 @@
-# biomedical-ner-with-rl
+This system attempts to perform biomedical Named Entity Recognition using multiple reinforcement learning algorithms like REINFORCE, PPO, A2C, and Deep Q-Networks. The dataset is available at : https://github.com/chanzuckerberg/MedMentions
